@@ -52,4 +52,10 @@ This project focuses on the bioinformatic sequence analysis, metabolic pathway m
                     │
                     ▼
   [Statistical Evaluation & Visualization (R / Python)]
+## Author
+
+**Maiada Bahaa Salman**  
+*Clinical Dietitian & Food Quality Specialist | Bioinformatics Researcher*  
+* [LinkedIn Profile](https://www.linkedin.com/in/maiada-bahaa-906893252)  
+* [GitHub Profile](https://github.com/masadabahaa30-art)
   
